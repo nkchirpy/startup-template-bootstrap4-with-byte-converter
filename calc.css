@@ -1,0 +1,30 @@
+/* style.css */
+
+html,
+body {
+        margin-top: 35px;
+        background: linear-gradient(to right, #00F5FF, #FF34B3);
+        color: black;
+    }
+
+
+ul.navbar-nav a:hover { 
+	color: hotpink !important; 
+}
+
+
+#footer-main {
+  background: black;
+  color: white;
+  padding: 2.5rem;
+}
+
+
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: hotpink;
+}

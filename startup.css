@@ -1,0 +1,196 @@
+html,
+body {
+	height: 100%;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	color: #6c6f73;
+}
+
+ul.navbar-nav a:hover { 
+	color: hotpink !important; 
+}
+
+.nav-link {
+    color: white;
+}
+
+/* section 1 */
+
+h1,h2,h3,h4,h5 {
+	color: #5B5B5B;
+}
+
+h6 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 0.8rem ;
+}
+
+img {
+	max-width: 100%;
+}
+.blockquote {
+	font-size: 1.6rem;
+	color: #333;
+	border: none;
+	padding: 0;
+}
+
+.blockquote-footer {
+	margin: 1rem 0 0;
+}
+
+#stage {
+	background: url("img/123.jpg") center center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+#stage-caption {
+	font-size: 1.4rem;
+	font-weight: 200;
+	max-width: 60rem;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#stage-caption {
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.btn:hover {
+	color: hotpink;
+}
+
+/* section 2 */
+
+#feature-one {
+	padding: 6rem;
+	color: white;
+	background: linear-gradient(to right, black, #4B0082);
+
+}
+
+#feature-one h2{
+	color: white;
+}
+
+
+/* section 3 */
+
+
+/* section 4 */
+
+#feauture-three {
+	background: linear-gradient(to right, black, #EEAEEE);
+	padding: 6rem;
+	color: white;
+	font-weight: bold;
+}
+
+#feauture-three h2 {
+	color: white;
+}
+
+/* section 5 */
+
+#feature-four {
+
+	padding: 6rem;
+	background: linear-gradient(to right, black, #CD8C95);
+	color: white;
+}
+
+.blockquote {
+	color: white;
+}
+
+
+.blockquote-footer {
+	color: white;
+}
+
+
+
+/* section 6 */
+
+#map-page {
+	padding: 3rem;
+	color: black;
+	background: linear-gradient(to right, black, #C1C1C1);
+}
+
+#map {
+    height: 350px;
+    width: 100%;
+
+    }
+
+#map-page {
+	padding: 3rem; 
+}
+
+.adjust {
+	padding-top: 1rem; 
+  	background: rgba(0,0,0,0.3);
+  	color: white;
+  	padding: 1.875rem;
+}
+
+.padd {
+	padding-top: 3rem; 
+}
+
+#map-page h3,h1,h2 {
+	
+	color: black;   
+}
+
+#map-page h2 {
+	
+	color: #C67171;   
+}
+
+
+
+#clock {
+	color: hotpink;
+}
+
+
+
+/* section 7 */
+
+#footer-main {
+	padding: 2rem;
+	background: black;
+}
+
+#footer-main h6 {
+ color: white;
+}
+
+#footer-main p {
+ color: white;
+}
+
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+
+

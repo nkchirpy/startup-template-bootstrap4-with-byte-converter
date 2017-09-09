@@ -1,0 +1,47 @@
+/* style.css */
+
+ html,
+ body {
+   height: 100%;
+ }
+ img {
+  max-width: 100%;
+ }
+
+/* cover */
+
+ #cover {
+   background: url('img/perfect.jpg') no-repeat;
+   width: 100%;
+   background-size: cover;
+   color: white;
+   height: 100%;
+   text-align: center;
+   display:flex;
+   align-items: center;
+ }
+
+#cover-caption {
+  width: 100%;
+}
+.section-content{
+  padding: 5rem 0;
+}
+
+#about {
+  background: url('img/ass.jpg') no-repeat;
+  background-size: cover;
+  }
+
+.about-text {
+  background: rgba(0,0,0,0.7);
+  color: white;
+  padding: 1.875rem;
+}
+
+#footer-main {
+  background: #222;
+  color: white;
+  font-size: 0.8rem;
+  padding: 2.5rem;
+}
